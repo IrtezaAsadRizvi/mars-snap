@@ -32,7 +32,7 @@ Generate cinematic, Mars‑like desert landscapes directly in the browser using 
 - **Multi‑pass shader pipeline** (AO, lighting, composition)
 - **Smooth viewport pan** for interactive viewing
 - **One‑click PNG export**
-- **Free to use** (see license, MIT)
+- **Free to use** (see license)
 
 ---
 
