@@ -1,4 +1,4 @@
-# Mars Snap — Random Landscape Generator 🔴🏜️
+# Mars Snap — Random Landscape Generator 🏜️
 
 <p align="center">
   <img src="https://i.ibb.co.com/rRhVQcKY/mars-snap-git-cover.jpg" width="900" alt="Mars Cover">
